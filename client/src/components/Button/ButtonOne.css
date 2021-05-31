@@ -11,11 +11,12 @@
 
 
 .button {
-  align-items: flex-start;
   display: flex;
   width: 159px;
   text-transform: uppercase;
-
+  align-items: flex-start;
+  justify-content: center;
+  margin: 0 auto;
 }
 .field {
   letter-spacing: 0px;
